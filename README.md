@@ -5,6 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Board Game Station Project as Web Developer
 - 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: I'm so happy và responsible
+
 ------->
 
 ## 🌐Socials
